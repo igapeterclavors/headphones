@@ -17,6 +17,7 @@ Desktop version
 ![Alt text](image-1.png)
 
 Mobile version
+
 ![Alt text](image.png)
 
 2. "What we do..." section
@@ -25,9 +26,11 @@ Mobile version
 5. Footer
 
 Desktop version
+
 ![Alt text](image-2.png)
 
 Mobile version
+
 ![Alt text](image-3.png)
 
 6. Replace background image with... code!
